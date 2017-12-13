@@ -3,9 +3,9 @@ title: LYY
 subtitle: 喜欢装逼的OIer
 welcome_message: Hello World
 description: ~~~
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://yangyanghou.xyz">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+url: "http://dgslyy.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 洛谷博客, description: Luogu Blog, url: 'https://www.luogu.org/blog/dgslyy/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: dglyy
+    github: dgslyy
+    twitter: dgslyy
+    gplus: 
+    mail: 2858853716@qq.com
 
 # Google Analytics
 ga:
